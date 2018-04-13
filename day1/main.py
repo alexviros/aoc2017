@@ -1,5 +1,5 @@
 """
-Day 1 - Part 1
+Day 1 - Part 1 & 2
 """
 
 def compute(data, step_forward):
